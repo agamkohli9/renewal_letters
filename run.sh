@@ -1,3 +1,4 @@
+cd ~/Desktop/renewal_letters
 source venv/bin/activate
 python generate_renewal_letters.py
 cd tmp
