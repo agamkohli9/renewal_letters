@@ -1,4 +1,4 @@
-brew install docker colima
+brew install docker colima python
 cd ~/Desktop/
 git clone https://github.com/agamkohli9/renewal_letters.git
 cd renewal_letters
